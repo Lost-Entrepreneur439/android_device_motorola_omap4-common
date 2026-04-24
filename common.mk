@@ -48,6 +48,7 @@ PRODUCT_PACKAGES += \
 # Hardware HALs
 PRODUCT_PACKAGES += \
     audio.primary.maserati \
+    audio.primary.solana \
     audio.primary.spyder \
     audio.primary.umts_spyder \
     audio.primary.targa \
@@ -57,6 +58,7 @@ PRODUCT_PACKAGES += \
     audio.r_submix.default \
     camera.omap4 \
     gps.maserati \
+    gps.solana \
     gps.spyder \
     gps.targa \
     gps.umts_spyder
